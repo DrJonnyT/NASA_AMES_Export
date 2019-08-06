@@ -7,9 +7,12 @@
 // Jonathan Taylor, University of Manchester
 // jonathan.taylor@manchester.ac.uk
 // Original by James Allan
+//See the Word document for a guide explaining how to use these functions
 
 // Note: independent variable must be included in the list of data waves.
 
+
+//This section is based on James Allan's old code (so it's not my fault it's messy and poor comments)
 
 static strconstant inputtitles="Originator names(s);Organisation;Data source(s);Campaign name;Flight number;Flight date (YYYY MM DD);Revision date (YYYY MM DD);Interval;"
 
